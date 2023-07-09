@@ -1,0 +1,23 @@
+#timeCount{
+  font-size:50px;
+  margin-left:20px;
+}
+
+.buttons{
+  display: flex;
+  margin-top: 30px;
+}
+
+#start{
+  padding: 0 20px;
+  margin-right: 5px;
+}
+
+#stop{
+   padding: 0 20px;
+   margin-right: 5px;
+}
+
+#reset{
+   padding: 0 20px;
+}
